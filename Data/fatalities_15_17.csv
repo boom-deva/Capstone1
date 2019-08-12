@@ -52,19 +52,10 @@ Washington,70,78,84
 West Virginia,35,47,51
 Wisconsin,104,105,106
 Wyoming,34,34,20
-,,,
-Employee status,,,
-,,,
 Wage and salary workers2,"3,751","4,098","4,069"
 Self-employed3,"1,085","1,092","1,078"
-,,,
-Gender,,,
-,,,
 Women,344,387,386
 Men,"4,492","4,803","4,761"
-,,,
-Age,,,
-,,,
 Under 16 years,12,13,15
 16 to 17 years,12,17,7
 18 to 19 years,50,43,62
@@ -74,9 +65,6 @@ Under 16 years,12,13,15
 45 to 54 years,"1,130","1,145","1,059"
 55 to 64 years,"1,031","1,160","1,155"
 65 years and over,650,688,775
-,,,
-Race or ethnic origin4,,,
-,,,
 White (non-Hispanic),"3,241","3,481","3,449"
 Black or African-American (non-Hispanic),495,587,530
 Hispanic or Latino,903,879,903
@@ -85,15 +73,10 @@ Asian (non-Hispanic),114,160,144
 Native Hawaiian or Pacific Islander (non-Hispanic),9,7,17
 Multiple races (non-Hispanic),12,15,9
 Other races or not reported (non-Hispanic),26,23,57
-,,,
-Occupation (SOC)5,,,
-,,,
 "Management, business, science, and arts 
      occupations",664,672,654
-,,,
 "Management, business, and financial 
      occupations",410,404,425
-,,,
 Management occupations,379,377,396
 Top executives,22,13,24
 Chief executives,11,10,10
@@ -164,7 +147,6 @@ Postmasters and mail superintendents,-,-,2
 Social and community service managers,1,-,-
 Social and community service managers,1,-,-
 Miscellaneous managers,9,10,13
-,,,
 Business and financial operations occupations,31,27,29
 Business operations specialists,17,14,12
 Buyers and purchasing agents,5,1,1
@@ -212,12 +194,9 @@ Loan officers,1,-,3
      revenue agents",-,-,-
 Tax preparers,-,-,-
 Miscellaneous financial specialists,3,1,3
-,,,
 Professional and related occupations,254,268,229
-,,,
 "Computer, engineering, and science 
      occupations",56,72,47
-,,,
 Computer and mathematical occupations,8,16,11
 Computer specialists6,7,16,11
 Computer software engineers,-,-,-
@@ -262,7 +241,6 @@ Operations research analysts,-,-,-
 Operations research analysts,-,-,-
 Statisticians,1,-,-
 Statisticians,1,-,-
-,,,
 Architecture and engineering occupations,37,41,23
 "Architects, surveyors, and cartographers",-,14,6
 "Architects, except naval",-,1,-
@@ -311,7 +289,6 @@ Industrial engineering technicians,-,1,-
 Mechanical engineering technicians,1,-,-
 Surveying and mapping technicians,3,-,1
 Surveying and mapping technicians,3,-,1
-,,,
 "Life, physical, and social science occupations",11,15,13
 Life scientists,8,6,3
 Agricultural and food scientists,2,-,-
@@ -362,10 +339,8 @@ Nuclear technicians,-,-,-
      technicians, including health",-,-,-
 Forensic science technicians,-,-,-
 Forest and conservation technicians,1,-,-
-,,,
 "Education, legal, community service, 
      arts, and media occupations",124,136,125
-,,,
 Community and social services occupations,28,27,37
 "Counselors, social workers, and other 
      community and social service specialists",12,15,25
@@ -396,7 +371,6 @@ Clergy,12,7,9
      education",-,-,2
 "Miscellaneous community and social 
      service specialists",-,4,-
-,,,
 Legal occupations,12,13,11
 "Lawyers, judges, and related workers",11,12,10
 Lawyers and judicial law clerks,11,12,9
@@ -409,7 +383,6 @@ Legal support workers,-,1,-
 Paralegals and legal assistants,-,1,-
 Paralegals and legal assistants,-,1,-
 Miscellaneous legal support workers,-,-,-
-,,,
 "Education, training, and library occupations",19,32,30
 Postsecondary teachers,5,11,6
 "Math and computer teachers, postsecondary",-,-,-
@@ -464,7 +437,6 @@ Library technicians,-,-,-
      occupations",-,-,-
 Teacher assistants,1,-,-
 Teacher assistants,1,-,-
-,,,
 "Arts, design, entertainment, sports, and media 
      occupations",65,64,47
 Art and design workers,9,6,7
@@ -522,7 +494,6 @@ Photographers,1,-,-
      camera operators and editors",-,-,1
 "Camera operators, television, video, 
      and motion picture",-,-,1
-,,,
 Healthcare practitioners and technical occupations,74,60,57
 Health diagnosing and treating practitioners,36,24,35
 Chiropractors,1,3,-
@@ -592,9 +563,7 @@ Psychiatric technicians,1,-,-
 "Miscellaneous health practitioners and 
      technical workers",-,-,1
 Athletic trainers,-,-,1
-,,,
 Service occupations,632,787,778
-,,,
 Healthcare support occupations,23,30,28
 "Nursing, psychiatric, and home health aides",16,23,21
 "Nursing, psychiatric, and home health 
@@ -609,7 +578,6 @@ Other healthcare support occupations,6,7,7
      occupations",6,6,5
 Medical equipment preparers,1,-,-
 Phlebotomists,-,-,-
-,,,
 Protective service occupations,213,281,266
 "First-line supervisors/managers, protective 
      service workers",13,30,34
@@ -655,7 +623,6 @@ Crossing guards,6,24,9
 "Lifeguards, ski patrol, and other 
      recreational protective service workers",-,9,3
 Transportation security screeners,-,-,-
-,,,
 Food preparation and serving related occupations,56,92,89
 "Supervisors, food preparation and serving 
      workers",17,21,38
@@ -693,7 +660,6 @@ Dishwashers,-,-,3
 Dishwashers,-,-,3
 "Miscellaneous food preparation and 
      serving related workers",2,1,3
-,,,
 "Building and grounds cleaning and maintenance 
      occupations",289,329,326
 "Supervisors, building and grounds cleaning 
@@ -717,7 +683,6 @@ Landscaping and groundskeeping workers,111,125,109
 "Pesticide handlers, sprayers, and 
      applicators, vegetation",-,3,3
 Tree trimmers and pruners,66,84,78
-,,,
 Personal care and service occupations,51,55,69
 "Supervisors, personal care and service workers",8,1,4
 "First-line supervisors/managers of 
@@ -772,9 +737,7 @@ Residential advisors,-,3,-
 Residential advisors,-,3,-
 "Miscellaneous personal care and service 
      workers",-,-,-
-,,,
 Sales and office occupations,314,332,333
-,,,
 Sales and related occupations,228,254,232
 "Supervisors, sales workers",101,104,98
 "First-line supervisors/managers, sales 
@@ -828,7 +791,6 @@ Sales engineers,-,-,3
 Miscellaneous sales and related workers,11,12,11
 "Door-to-door sales workers, news and 
      street vendors, and related workers",5,6,-
-,,,
 Office and administrative support occupations,86,78,101
 "Supervisors of office and administrative 
      support workers",6,8,6
@@ -921,10 +883,8 @@ Medical secretaries,-,-,-
 "Office clerks, general",2,-,6
 "Miscellaneous office and administrative 
      support workers",-,-,-
-,,,
 "Natural resources, construction, and 
      maintenance occupations","1,600","1,730","1,643"
-,,,
 "Farming, fishing, and forestry occupations",284,290,264
 "Supervisors, farming, fishing, and forestry 
      workers",10,12,11
@@ -958,7 +918,6 @@ Forest and conservation workers,2,-,-
 Logging workers,67,91,55
 Fallers,50,70,40
 Logging equipment operators,12,12,6
-,,,
 Construction and extraction occupations,924,970,965
 "Supervisors of construction and extraction 
      workers",123,134,121
@@ -1076,7 +1035,6 @@ Continuous mining machine operators,1,3,1
 Helpers--extraction workers,-,-,-
 Helpers--extraction workers,-,-,-
 Miscellaneous extraction workers,9,12,5
-,,,
 "Installation, maintenance, and repair occupations",392,470,414
 "Supervisors of installation, maintenance, and 
      repair workers",36,44,35
@@ -1188,10 +1146,8 @@ Riggers,3,4,1
 Signal and track switch repairers,-,-,1
 "Helpers--installation, maintenance, 
      and repair workers",6,10,-
-,,,
 "Production, transportation, and material 
      moving occupations","1,551","1,604","1,664"
-,,,
 Production occupations,250,216,221
 Supervisors of production workers,46,31,31
 "First-line supervisors/managers of 
@@ -1373,7 +1329,6 @@ Miscellaneous production workers,29,14,24
      operators, and tenders",6,1,-
 Tire builders,3,-,1
 Helpers--production workers,3,3,-
-,,,
 Transportation and material moving occupations,"1,301","1,388","1,443"
 "Supervisors, transportation and material 
      moving workers",21,27,29
@@ -1498,17 +1453,10 @@ Air crew officers,1,-,-
 "Military enlisted tactical operations and 
      air/weapons specialists and crew members",-,1,-
 Special forces,-,1,-
-,,,
 Military occupations8,73,62,72
-,,,
-Industry (NAICS)9,,,
-,,,
 Private industry (NAICS)10,"4,379","4,693","4,674"
-,,,
 Goods producing,"1,980","1,991","1,967"
-,,,
 Natural resources and mining,690,682,693
-,,,
 "Agriculture, forestry, fishing and hunting",570,593,581
 Crop production,230,261,263
 Oilseed and grain farming,35,54,56
@@ -1611,7 +1559,6 @@ Support activities for animal production,6,6,8
      production",6,6,8
 Support activities for forestry,3,-,4
 Support activities for forestry,3,-,4
-,,,
 "Mining, quarrying, and oil and gas extraction11",120,89,112
 Oil and gas extraction,6,9,8
 Oil and gas extraction,6,9,8
@@ -1663,7 +1610,6 @@ Support activities for coal mining,1,1,-
      mining",1,-,-
 "Support activities for 
      nonmetallic minerals (except fuels)",-,1,-
-,,,
 Construction,937,991,971
 Construction of buildings,175,182,196
 Residential building construction,106,128,135
@@ -1784,7 +1730,6 @@ All other specialty trade contractors,36,45,31
      trade contractors",-,9,6
 "All other nonresidential 
      specialty trade contractors",12,10,7
-,,,
 Manufacturing,353,318,303
 Food manufacturing,44,40,51
 Animal food manufacturing,-,6,4
@@ -2407,11 +2352,8 @@ All other miscellaneous manufacturing,-,3,-
 "Gasket, packing, and sealing 
      device manufacturing",-,1,-
 Burial casket manufacturing,-,-,-
-,,,
 Service providing,"2,399","2,702","2,707"
-,,,
 "Trade, transportation, and utilities","1,231","1,316","1,371"
-,,,
 Wholesale trade,175,179,174
 "Merchant wholesalers, durable goods",98,91,85
 "Motor vehicle and motor vehicle parts and 
@@ -2548,7 +2490,6 @@ Farm supplies merchant wholesalers,11,11,12
 "Wholesale electronic markets and agents 
      and brokers",3,-,1
 Wholesale trade agents and brokers,3,-,1
-,,,
 Retail trade,269,282,287
 Motor vehicle and parts dealers,62,42,54
 Automobile dealers,31,21,28
@@ -2679,7 +2620,6 @@ Fuel dealers,6,6,8
 Heating oil dealers,-,-,-
 "Liquefied petroleum gas (bottled 
      gas) dealers",-,-,-
-,,,
 Transportation and warehousing,765,825,882
 Air transportation,23,22,21
 Scheduled air transportation,11,10,8
@@ -2803,7 +2743,6 @@ Warehousing and storage,11,16,22
 General warehousing and storage,6,12,15
 Refrigerated warehousing and storage,1,4,-
 Farm product warehousing and storage,-,-,3
-,,,
 Utilities,22,30,28
 Utilities,22,30,28
 "Electric power generation, transmission 
@@ -2825,7 +2764,6 @@ Natural gas distribution,4,-,5
 "Water, sewage and other systems",3,5,3
 Water supply and irrigation systems,-,3,3
 Sewage treatment facilities,-,1,-
-,,,
 Information,42,46,43
 Publishing industries (except internet),14,14,10
 "Newspaper, periodical, book, and 
@@ -2876,9 +2814,7 @@ News syndicates,1,-,-
 Libraries and archives,-,-,3
 "Internet publishing and broadcasting 
      and web search portals",-,-,-
-,,,
 Financial activities,83,117,101
-,,,
 Finance and insurance,19,26,32
 Credit intermediation and related activities,11,14,20
 Depository credit intermediation,5,3,12
@@ -2922,7 +2858,6 @@ Other insurance related activities,-,-,3
 Claims adjusting,-,-,-
 "Funds, trusts, and other financial vehicles",1,-,-
 Other investment pools and funds,1,-,-
-,,,
 Real estate and rental and leasing,64,91,69
 Real estate,40,64,48
 Lessors of real estate,20,37,21
@@ -2962,9 +2897,7 @@ General rental centers,-,-,-
      transportation equipment rental and leasing",-,-,-
 "Construction, mining, and 
      forestry machinery and equipment rental and leasing",10,5,4
-,,,
 Professional and business services,477,540,532
-,,,
 "Professional, scientific, and technical services",76,100,69
 "Professional, scientific, and technical 
      services",76,100,69
@@ -3029,7 +2962,6 @@ Photographic services,-,1,1
 "Photography studios, portrait",-,-,1
 Commercial photography,-,-,-
 Veterinary services,4,10,4
-,,,
 Management of companies and enterprises,-,1,3
 Management of companies and enterprises,-,1,3
 Management of companies and enterprises,-,1,3
@@ -3038,7 +2970,6 @@ Management of companies and enterprises,-,1,3
 Offices of other holding companies,-,-,-
 "Corporate, subsidiary, and 
      regional managing offices",-,1,1
-,,,
 "Administrative and support and waste management 
      and remediation services",401,439,460
 Administrative and support services,334,372,397
@@ -3102,9 +3033,7 @@ Remediation services,7,9,11
 Materials recovery facilities,3,-,4
 All other waste management services,13,15,7
 Septic tank and related services,6,9,-
-,,,
 Educational and health services,139,159,189
-,,,
 Educational services,30,42,43
 Educational services,30,42,43
 Elementary and secondary schools,-,5,9
@@ -3125,7 +3054,6 @@ Sports and recreation instruction,6,7,5
 All other schools and instruction,3,-,3
 Exam preparation and tutoring,-,-,-
 Automobile driving schools,1,1,-
-,,,
 Health care and social assistance,109,117,146
 Ambulatory health care services,47,56,65
 Offices of physicians,10,7,9
@@ -3209,9 +3137,7 @@ Vocational rehabilitation services,-,5,8
 Vocational rehabilitation services,-,5,8
 Child day care services,3,1,4
 Child day care services,3,1,4
-,,,
 Leisure and hospitality,225,298,262
-,,,
 "Arts, entertainment, and recreation",82,96,91
 "Performing arts, spectator sports, and 
      related industries",49,53,38
@@ -3256,7 +3182,6 @@ Marinas,2,5,-
 "Fitness and recreational sports 
      centers",-,5,8
 Bowling centers,-,-,-
-,,,
 Accommodation and food services,143,202,171
 Accommodation,25,37,33
 Traveler accommodation,20,30,26
@@ -3299,7 +3224,6 @@ Limited-service restaurants,42,69,46
      buffets",1,-,-
 "Snack and nonalcoholic beverage 
      bars",4,3,3
-,,,
 "Other services, except public administration",202,223,205
 Repair and maintenance,125,146,132
 Automotive repair and maintenance,91,105,95
@@ -3387,34 +3311,25 @@ Political organizations,-,2,-
 Private households,2,-,-
 Private households,2,-,-
 Private households,2,-,-
-,,,
 Public administration,-,1,-
 "Justice, public order, and safety activities",-,1,-
 "Justice, public order, and safety 
      activities",-,1,-
 Fire protection,-,1,-
-,,,
 Government (NAICS)12,457,497,473
-,,,
-,,,
 Federal government (NAICS)10,118,107,116
-,,,
 Goods producing,8,6,4
-,,,
 Natural resources and mining,7,3,-
-,,,
 "Agriculture, forestry, fishing and hunting",7,3,-
 "Support activities for agriculture and 
      forestry",7,3,-
 Support activities for forestry,7,3,-
 Support activities for forestry,7,3,-
-,,,
 "Mining, quarrying, and oil and gas extraction11",-,-,1
 Mining (except oil and gas),-,-,1
 Coal mining,-,-,1
 Coal mining,-,-,1
 Bituminous coal underground mining,-,-,1
-,,,
 Construction,-,2,2
 Heavy and civil engineering construction,-,2,1
 "Other heavy and civil engineering 
@@ -3425,17 +3340,13 @@ Building equipment contractors,-,-,1
      air-conditioning contractors",-,-,1
 "Nonresidential plumbing, heating, 
      and air-conditioning contractors",-,-,1
-,,,
 Manufacturing,-,-,-
 Transportation equipment manufacturing,-,-,-
 Ship and boat building,-,-,-
 Ship and boat building,-,-,-
 Ship building and repairing,-,-,-
-,,,
 Service providing,110,101,112
-,,,
 "Trade, transportation, and utilities",20,16,25
-,,,
 Transportation and warehousing,20,15,23
 Air transportation,-,-,1
 Nonscheduled air transportation,-,-,1
@@ -3463,7 +3374,6 @@ Support activities for rail transportation,1,-,-
 Postal service,17,14,21
 Postal service,17,14,21
 Postal service,17,14,21
-,,,
 Utilities,-,1,-
 Utilities,-,1,-
 "Electric power generation, transmission 
@@ -3471,17 +3381,13 @@ Utilities,-,1,-
 "Electric power transmission, control, 
      and distribution",-,1,-
 Electric power distribution,-,1,-
-,,,
 Financial activities,-,-,1
-,,,
 Real estate and rental and leasing,-,-,1
 Rental and leasing services,-,-,1
 Automotive equipment rental and leasing,-,-,1
 Passenger car rental and leasing,-,-,1
 Passenger car rental,-,-,1
-,,,
 Professional and business services,-,1,-
-,,,
 "Professional, scientific, and technical services",-,-,-
 "Professional, scientific, and technical 
      services",-,-,-
@@ -3489,7 +3395,6 @@ Professional and business services,-,1,-
      services",-,-,-
 "Research and development in the 
      physical, engineering, and life sciences",-,-,-
-,,,
 "Administrative and support and waste management 
      and remediation services",-,1,-
 Administrative and support services,-,1,-
@@ -3497,14 +3402,11 @@ Employment services,-,1,-
 "Employment placement agencies and 
      executive search services",-,1,-
 Employment placement agencies,-,1,-
-,,,
 Educational and health services,-,-,-
-,,,
 Educational services,-,1,-
 Educational services,-,1,-
 Elementary and secondary schools,-,1,-
 Elementary and secondary schools,-,1,-
-,,,
 Health care and social assistance,-,-,-
 Hospitals,1,-,-
 General medical and surgical hospitals,-,-,-
@@ -3515,16 +3417,13 @@ Nursing and residential care facilities,-,-,-
 "Nursing care facilities (skilled 
      nursing facilities)",-,-,-
 Social assistance,-,-,-
-,,,
 Leisure and hospitality,-,-,-
-,,,
 "Arts, entertainment, and recreation",-,-,-
 "Museums, historical sites, and similar 
      institutions",-,-,-
 "Museums, historical sites, and similar 
      institutions",-,-,-
 Museums,-,-,-
-,,,
 Public administration,88,80,84
 "Executive, legislative, and other general 
      government support",1,-,-
@@ -3567,13 +3466,9 @@ National security and international affairs,77,71,78
      affairs",77,71,78
 National security,74,68,76
 International affairs,-,3,-
-,,,
 State government (NAICS)10,81,97,91
-,,,
 Goods producing,17,16,15
-,,,
 Natural resources and mining,-,-,2
-,,,
 "Agriculture, forestry, fishing and hunting",-,-,2
 Animal production and aquaculture,-,-,1
 Aquaculture,-,-,1
@@ -3584,7 +3479,6 @@ Aquaculture,-,-,1
      forestry",-,-,1
 Support activities for forestry,-,-,1
 Support activities for forestry,-,-,1
-,,,
 Construction,17,16,13
 Heavy and civil engineering construction,15,16,13
 "Highway, street, and bridge construction",15,16,13
@@ -3598,16 +3492,12 @@ Building equipment contractors,1,-,-
      wiring installation contractors",1,-,-
 "Nonresidential electrical 
      contractors and other wiring installation contractors",1,-,-
-,,,
 Service providing,64,81,76
-,,,
 "Trade, transportation, and utilities",6,8,5
-,,,
 Retail trade,-,-,-
 Food and beverage stores,-,-,-
 "Beer, wine, and liquor stores",-,-,-
 "Beer, wine, and liquor stores",-,-,-
-,,,
 Transportation and warehousing,5,8,4
 Rail transportation,-,-,-
 Rail transportation,-,-,-
@@ -3631,23 +3521,18 @@ Interurban and rural bus transportation,-,-,1
 Support activities for transportation,-,3,-
 Support activities for road transportation,-,3,-
 Motor vehicle towing,-,-,-
-,,,
 Utilities,1,-,-
 Utilities,1,-,-
 "Electric power generation, transmission 
      and distribution",1,-,-
 "Electric power transmission, control, 
      and distribution",1,-,-
-,,,
 Financial activities,-,-,-
-,,,
 Finance and insurance,-,-,-
 "Funds, trusts, and other financial vehicles",-,-,-
 Insurance and employee benefit funds,-,-,-
 Pension funds,-,-,-
-,,,
 Professional and business services,1,2,1
-,,,
 "Professional, scientific, and technical services",1,2,-
 "Professional, scientific, and technical 
      services",1,2,-
@@ -3661,7 +3546,6 @@ Engineering services,-,1,-
 "Research and development in the 
      physical, engineering, and life sciences 
      (except biotechnology)",1,1,-
-,,,
 "Administrative and support and waste management 
      and remediation services",-,-,1
 Administrative and support services,-,-,1
@@ -3677,9 +3561,7 @@ Waste treatment and disposal,-,-,-
 Waste treatment and disposal,-,-,-
 "Hazardous waste treatment and 
      disposal",-,-,-
-,,,
 Educational and health services,18,29,15
-,,,
 Educational services,14,24,8
 Educational services,14,24,8
 Elementary and secondary schools,-,-,-
@@ -3690,7 +3572,6 @@ Junior colleges,-,-,-
      schools",14,22,7
 "Colleges, universities, and 
      professional schools",14,22,7
-,,,
 Health care and social assistance,4,5,7
 Hospitals,-,-,-
 Psychiatric and substance abuse hospitals,-,-,-
@@ -3713,9 +3594,7 @@ Individual and family services,1,-,-
 Child and youth services,1,-,-
 Vocational rehabilitation services,-,1,-
 Vocational rehabilitation services,-,1,-
-,,,
 Leisure and hospitality,1,-,4
-,,,
 "Arts, entertainment, and recreation",1,-,4
 "Performing arts, spectator sports, and 
      related industries",-,-,-
@@ -3728,13 +3607,11 @@ Leisure and hospitality,1,-,4
 "Museums, historical sites, and similar 
      institutions",1,-,3
 Historical sites,-,-,1
-,,,
 Accommodation and food services,-,-,-
 Accommodation,-,-,-
 Traveler accommodation,-,-,-
 "Hotels (except casino hotels) and 
      motels",-,-,-
-,,,
 Public administration,38,41,51
 "Executive, legislative, and other general 
      government support",-,4,-
@@ -3777,18 +3654,13 @@ National security and international affairs,-,-,-
 "National security and international 
      affairs",-,-,-
 National security,-,-,-
-,,,
 Local government (NAICS)10,257,291,265
-,,,
 Goods producing,30,25,27
-,,,
 Natural resources and mining,-,-,-
-,,,
 "Agriculture, forestry, fishing and hunting",-,-,-
 "Fishing, hunting and trapping",-,-,-
 Fishing,-,-,-
 Fishing,-,-,-
-,,,
 Construction,30,25,27
 Heavy and civil engineering construction,28,22,24
 Utility system construction,1,-,1
@@ -3803,15 +3675,11 @@ Building equipment contractors,1,-,-
      wiring installation contractors",1,-,-
 "Nonresidential electrical 
      contractors and other wiring installation contractors",1,-,-
-,,,
 Manufacturing,-,-,-
 Food manufacturing,-,-,-
 Grain and oilseed milling,-,-,-
-,,,
 Service providing,227,266,238
-,,,
 "Trade, transportation, and utilities",25,24,25
-,,,
 Transportation and warehousing,9,8,7
 Transit and ground passenger transportation,6,5,6
 Urban transit systems,4,4,3
@@ -3831,7 +3699,6 @@ Support activities for transportation,3,-,1
      transportation",-,-,-
 Port and harbor operations,-,-,-
 Support activities for road transportation,-,-,1
-,,,
 Utilities,16,16,18
 Utilities,16,16,18
 "Electric power generation, transmission 
@@ -3849,7 +3716,6 @@ Natural gas distribution,-,-,-
 "Water, sewage and other systems",15,11,14
 Water supply and irrigation systems,13,3,8
 Sewage treatment facilities,-,6,6
-,,,
 Information,-,-,-
 Publishing industries (except internet),-,-,2
 "Newspaper, periodical, book, and 
@@ -3858,24 +3724,19 @@ Newspaper publishers,-,-,2
 Other information services,-,-,-
 Other information services,-,-,-
 Libraries and archives,-,-,-
-,,,
 Financial activities,-,-,-
-,,,
 Real estate and rental and leasing,-,-,-
 Real estate,-,-,-
 Activities related to real estate,-,-,-
 Real estate property managers,-,-,-
 Residential property managers,-,-,-
-,,,
 Professional and business services,13,18,12
-,,,
 "Professional, scientific, and technical services",-,-,-
 "Professional, scientific, and technical 
      services",-,-,-
 "Other professional, scientific, and 
      technical services",-,-,-
 Veterinary services,-,-,-
-,,,
 "Administrative and support and waste management 
      and remediation services",13,18,12
 Administrative and support services,-,8,4
@@ -3896,9 +3757,7 @@ Solid waste landfill,-,4,3
 "Remediation and other waste management 
      services",-,-,-
 Materials recovery facilities,-,-,-
-,,,
 Educational and health services,38,37,31
-,,,
 Educational services,30,32,26
 Educational services,30,32,26
 Elementary and secondary schools,26,31,25
@@ -3909,7 +3768,6 @@ Junior colleges,-,-,-
      schools",2,-,-
 "Colleges, universities, and 
      professional schools",2,-,-
-,,,
 Health care and social assistance,8,5,5
 Ambulatory health care services,7,-,-
 Outpatient care centers,1,-,-
@@ -3926,9 +3784,7 @@ Individual and family services,1,-,-
      and other relief services",-,-,-
 Community housing services,-,-,-
 Temporary shelters,-,-,-
-,,,
 Leisure and hospitality,7,6,8
-,,,
 "Arts, entertainment, and recreation",7,6,7
 "Performing arts, spectator sports, and 
      related industries",-,-,-
@@ -3944,7 +3800,6 @@ Leisure and hospitality,7,6,8
 Other amusement and recreation industries,3,3,3
 Golf courses and country clubs,-,2,-
 Skiing facilities,-,-,1
-,,,
 Accommodation and food services,-,-,1
 Accommodation,-,-,1
 Traveler accommodation,-,-,1
@@ -3957,7 +3812,6 @@ Casino hotels,-,-,1
      and campgrounds",-,-,-
 "Recreational and vacation camps 
      (except campgrounds)",-,-,-
-,,,
 "Other services, except public administration",1,3,3
 Repair and maintenance,-,3,-
 Automotive repair and maintenance,-,3,-
@@ -3968,7 +3822,6 @@ Personal and laundry services,1,-,-
 Other personal services,1,-,-
 Pet care (except veterinary) services,-,-,-
 Parking lots and garages,1,-,-
-,,,
 Public administration,143,175,155
 "Executive, legislative, and other general 
      government support",7,1,4
@@ -4015,9 +3868,6 @@ Administration of economic programs,-,5,-
      transportation programs",-,-,-
 "Regulation, licensing, and inspection 
      of miscellaneous commercial sectors",-,3,-
-,,,
-Event or exposure13,,,
-,,,
 Contact with objects and equipment,-,-,-
 Struck against object or equipment,-,-,-
 Stepped on object,-,-,-
@@ -4047,7 +3897,6 @@ Excavation or trenching cave-in,-,-,-
 Other cave-in,-,-,-
 "Caught in or crushed in collapsing 
      structure",-,-,-
-,,,
 Fall,-,-,-
 Fall to lower level,-,-,-
 Fall down stairs or steps,-,-,-
@@ -4071,7 +3920,6 @@ Jump to lower level,-,-,-
 Fall on same level,-,-,-
 "Fall to floor, walkway, or other surface",-,-,-
 Fall onto or against objects,-,-,-
-,,,
 Bodily reaction and exertion,-,-,-
 Bodily reaction,-,-,-
 "Bending, climbing, crawling, reaching, 
@@ -4079,7 +3927,6 @@ Bodily reaction,-,-,-
 "Slip, trip, loss of balance--without fall",-,-,-
 Overexertion,-,-,-
 Overexertion in lifting,-,-,-
-,,,
 Exposure to harmful substances or environments,-,-,-
 Contact with electric current,-,-,-
 "Contact with electric current of machine, 
@@ -4114,7 +3961,6 @@ Ingestion of substance,-,-,-
 Choking on object or substance,-,-,-
 "Depletion of oxygen in other enclosed, 
      restricted, or confined space14",-,-,-
-,,,
 Transportation accidents,-,-,-
 Highway accident,-,-,-
 "Collision between vehicles, mobile 
@@ -4170,7 +4016,6 @@ Collision,-,-,-
 "Sinking, capsized water vehicle",-,-,-
 Aircraft accident,-,-,-
 During takeoff or landing,-,-,-
-,,,
 Fire or explosion,-,-,-
 Fire,-,-,-
 "Fire in residence, building, or other 
@@ -4180,7 +4025,6 @@ Fire,-,-,-
      source",-,-,-
 Explosion,-,-,-
 Explosion of pressure vessel or piping,-,-,-
-,,,
 Assaults and violent acts,-,-,-
 Assaults and violent acts by person(s),-,-,-
 "Hitting, kicking, beating",-,-,-
@@ -4191,9 +4035,6 @@ Self-inflicted injury,-,-,-
 "Self-inflicted injury or fatality--intent 
      unknown",-,-,-
 Assaults by animals,-,-,-
-,,,
-Primary source15,,,
-,,,
 Chemicals and chemical products,-,-,-
 Acids,-,-,-
 Alkalies,-,-,-
@@ -4239,7 +4080,6 @@ Methane gas,-,-,-
 Sulfur and sulfur compounds,-,-,-
 Hydrogen sulfide,-,-,-
 Multiple chemicals or chemical mixtures,-,-,-
-,,,
 Containers,-,-,-
 Containers--nonpressurized,-,-,-
 "Bags, sacks, totes",-,-,-
@@ -4256,7 +4096,6 @@ Containers--variable restraint,-,-,-
 "Bundles, bales",-,-,-
 "Reels, rolls",-,-,-
 "Skids, pallets",-,-,-
-,,,
 Furniture and fixtures,-,-,-
 "Cases, cabinets, racks, shelves",-,-,-
 "Cabinets, cases--display, storage",-,-,-
@@ -4266,7 +4105,6 @@ Furniture,-,-,-
 Other fixtures,-,-,-
 Lighting equipment,-,-,-
 Plumbing fixtures,-,-,-
-,,,
 Machinery,-,-,-
 Agricultural and garden machinery,-,-,-
 Harvesting and threshing machinery,-,-,-
@@ -4386,7 +4224,6 @@ Other machinery,-,-,-
 Air compressors,-,-,-
 Street sweeping and cleaning machinery,-,-,-
 Trash compactors,-,-,-
-,,,
 Parts and materials,-,-,-
 Building materials,-,-,-
 "Bricks, blocks, structural stone",-,-,-
@@ -4441,7 +4278,6 @@ Vehicle and mobile equipment parts,-,-,-
 Engine parts and accessories,-,-,-
 Transmission,-,-,-
 Trailers,-,-,-
-,,,
 "Persons, Plants, Animals, and Minerals",-,-,-
 Animals,-,-,-
 "Insects, arachnids (spiders, ticks, 
@@ -4473,7 +4309,6 @@ Robbers16,-,-,-
 "Plants, trees, vegetation",-,-,-
 Cash grain crops,-,-,-
 "Trees, logs",-,-,-
-,,,
 Structures and surfaces,-,-,-
 "Floors, walkways, ground surfaces",-,-,-
 Floor,-,-,-
@@ -4515,7 +4350,6 @@ Scaffolds--selfsupporting staging,-,-,-
 "Towers, poles",-,-,-
 Other structures,-,-,-
 "Guardrails, road dividers",-,-,-
-,,,
 "Tools, instruments, and equipment",-,-,-
 Handtools--nonpowered,-,-,-
 Cutting handtools--nonpowered,-,-,-
@@ -4552,7 +4386,6 @@ Recreation and athletic equipment,-,-,-
 Gymnasium and exercise equipment,-,-,-
 "Other tools, instruments, and equipment",-,-,-
 Firearm,-,-,-
-,,,
 Vehicle,-,-,-
 Aircraft,-,-,-
 Aircraft--powered fixed wing,-,-,-
@@ -4603,7 +4436,6 @@ Barge,-,-,-
 "Sailboat, sailing ship",-,-,-
 Ships--other than sail powered,-,-,-
 "Tugboat, commercial fishing boat",-,-,-
-,,,
 Other Sources,-,-,-
 Ammunition,-,-,-
 Bullets,-,-,-
@@ -4636,9 +4468,6 @@ Sewage,-,-,-
 "Steam, vapors--nonchemical",-,-,-
 Liquids,-,-,-
 Water,-,-,-
-,,,
-Secondary source17,,,
-,,,
 Chemicals and chemical products,-,-,-
 "Aromatics and hydrocarbon derivatives, except 
      halogenated",-,-,-
@@ -4677,7 +4506,6 @@ Resins,-,-,-
 "Sewer gas, mine gas",-,-,-
 Methane gas,-,-,-
 Multiple chemicals or chemical mixtures,-,-,-
-,,,
 Containers,-,-,-
 Containers--nonpressurized,-,-,-
 "Bags, sacks, totes",-,-,-
@@ -4692,7 +4520,6 @@ Containers--variable restraint,-,-,-
 "Bundles, bales",-,-,-
 "Reels, rolls",-,-,-
 "Skids, pallets",-,-,-
-,,,
 Furniture and fixtures,-,-,-
 "Cases, cabinets, racks, shelves",-,-,-
 "Garment racks, other racks",-,-,-
@@ -4706,7 +4533,6 @@ Chairs,-,-,-
 Other fixtures,-,-,-
 Lighting equipment,-,-,-
 Light bulbs,-,-,-
-,,,
 Machinery,-,-,-
 Agricultural and garden machinery,-,-,-
 Harvesting and threshing machinery,-,-,-
@@ -4793,7 +4619,6 @@ Miscellaneous machinery,-,-,-
 Other machinery,-,-,-
 Air compressors,-,-,-
 Trash compactors,-,-,-
-,,,
 Parts and materials,-,-,-
 Building materials,-,-,-
 "Bricks, blocks, structural stone",-,-,-
@@ -4839,7 +4664,6 @@ Vehicle and mobile equipment parts,-,-,-
 "Tires, except bike",-,-,-
 "Wheels, tire rims",-,-,-
 Trailers,-,-,-
-,,,
 "Persons, Plants, Animals, and Minerals",-,-,-
 Animals,-,-,-
 "Insects, arachnids (spiders, ticks, 
@@ -4867,7 +4691,6 @@ Student,-,-,-
 "Plants, trees, vegetation",-,-,-
 "Shrubs, grasses",-,-,-
 "Trees, logs",-,-,-
-,,,
 Structures and surfaces,-,-,-
 Building system,-,-,-
 "Floors, walkways, ground surfaces",-,-,-
@@ -4915,7 +4738,6 @@ Scaffolds--suspended staging,-,-,-
 Other structures,-,-,-
 "Guardrails, road dividers",-,-,-
 Wells,-,-,-
-,,,
 "Tools, instruments, and equipment",-,-,-
 Handtools--nonpowered,-,-,-
 Other handtools--nonpowered,-,-,-
@@ -4955,7 +4777,6 @@ Firearm,-,-,-
 "Pistol, handgun, revolver",-,-,-
 Rifle,-,-,-
 Shotgun,-,-,-
-,,,
 Vehicle,-,-,-
 Aircraft,-,-,-
 Aircraft--powered fixed wing,-,-,-
@@ -4992,7 +4813,6 @@ Barge,-,-,-
 "Motorboat, yachts",-,-,-
 Ships--other than sail powered,-,-,-
 "Tugboat, commercial fishing boat",-,-,-
-,,,
 Other Sources,-,-,-
 Apparel and textiles,-,-,-
 Clothing,-,-,-
@@ -5017,11 +4837,7 @@ Rain,-,-,-
 "Steam, vapors, liquids, n.e.c.",-,-,-
 Liquids,-,-,-
 Water,-,-,-
-,,,
 Not reported,"4,836","5,190","5,147"
-,,,
-Nature13,,,
-,,,
 Traumatic injuries and disorders,-,-,-
 "Traumatic injuries to bones, nerves, spinal 
      cord",-,-,-
@@ -5074,9 +4890,6 @@ Other poisonings and toxic effects,-,-,-
 Nonspecified injuries and disorders,-,-,-
 Crushing injuries,-,-,-
 "Back pain, hurt back",-,-,-
-,,,
-Part of body13,,,
-,,,
 Head,-,-,-
 Cranial region,-,-,-
 Brain,-,-,-
@@ -5089,10 +4902,8 @@ Eye(s),-,-,-
 Cheek(s),-,-,-
 Mouth,-,-,-
 Multiple head locations,-,-,-
-,,,
 "Neck, except internal location of diseases or 
      disorders",-,-,-
-,,,
 Trunk,-,-,-
 "Shoulder, including clavicle, scapula",-,-,-
 "Chest, except internal location of diseases 
@@ -5109,7 +4920,6 @@ Hip(s),-,-,-
 Pelvis,-,-,-
 Multiple pelvic region locations,-,-,-
 Multiple trunk locations,-,-,-
-,,,
 Upper extremities,-,-,-
 Arm(s),-,-,-
 Upper arm(s),-,-,-
@@ -5119,7 +4929,6 @@ Wrist(s),-,-,-
 "Hand(s), except finger(s)",-,-,-
 "Finger(s), fingernail(s)",-,-,-
 Multiple upper extremities locations,-,-,-
-,,,
 Lower extremities,-,-,-
 Leg(s),-,-,-
 Thigh(s),-,-,-
@@ -5129,13 +4938,8 @@ Multiple leg(s) locations,-,-,-
 Ankle(s),-,-,-
 "Foot(feet), except toe(s)",-,-,-
 Multiple lower extremities locations,-,-,-
-,,,
 Body Systems,-,-,-
-,,,
 Multiple Body Parts,-,-,-
-,,,
-Event or exposure 201119,,,
-,,,
 Violence and other injuries by persons or animals,703,866,807
 Intentional injury by person,646,792,733
 Homicides,417,500,458
@@ -5184,7 +4988,6 @@ Gored or rammed by animal,6,5,7
 "Multiple types of animal and insect 
      incidents",-,-,-
 Bitten and struck by animal,-,-,-
-,,,
 Transportation incidents,"2,054","2,083","2,077"
 Aircraft incidents,139,130,126
 Pedestrian struck by aircraft or propeller,1,1,-
@@ -5330,7 +5133,6 @@ Nonroadway noncollision incident,182,182,166
      operation, nonroadway",13,18,14
 "Struck bump, hole, rough terrain on 
      driving surface, nonroadway",-,1,1
-,,,
 Fire or explosion,121,88,123
 Fire,46,32,38
 "Collapsing building, structure, or 
@@ -5349,7 +5151,6 @@ Dust explosion,-,3,6
 "Explosion of pressure vessel, piping, or 
      tire",36,22,41
 Demolition or blasting explosion,1,-,-
-,,,
 "Fall, slip, trip",800,849,887
 Slip or trip without fall,3,3,4
 Trip without fall,-,-,-
@@ -5424,7 +5225,6 @@ Other jump to lower level 6 to 10 feet,-,-,1
      feet",1,-,-
 "Other jump to lower level more than 
      30 feet",1,-,-
-,,,
 Exposure to harmful substances or environments,424,518,531
 Exposure to electricity,134,154,136
 Direct exposure to electricity,83,86,79
@@ -5464,7 +5264,6 @@ Exposure to oxygen deficiency,35,47,39
 "Drowning, submersion, n.e.c.",19,25,27
 Choking on object or substance,7,13,10
 Depletion of oxygen,9,9,-
-,,,
 Contact with objects and equipment,722,761,695
 Struck by object or equipment,519,553,503
 Struck by powered vehicle nontransport,216,232,197
@@ -5534,7 +5333,6 @@ Landslide,-,5,-
 "Struck, caught, or crushed in other 
      collapsing structure or equipment",33,27,22
 Engulfment in other collapsing material,23,8,16
-,,,
 Overexertion and bodily reaction,9,19,16
 Overexertion involving outside sources,5,10,13
 "Overexertion in lifting, lowering",5,5,8
@@ -5553,9 +5351,6 @@ Other exertions or bodily reactions,3,6,-
 "Climbing or stepping up or down 
      single episode",-,3,-
 "Walking, without other incident",-,-,-
-,,,
-Primary source 201120,,,
-,,,
 Chemicals and chemical products,233,267,335
 Acids and alkalies,3,2,3
 Acids,1,-,-
@@ -5654,7 +5449,6 @@ Naphtha solvents,1,2,-
 "Multiple solvents, degreasers",-,-,-
 Other chemical products���general,-,-,-
 Photographic and copying solutions,-,-,-
-,,,
 "Containers, furniture, and fixtures",95,71,83
 Containers,73,55,67
 Containers nonpressurized,23,27,24
@@ -5697,7 +5491,6 @@ Lighting equipment,6,6,2
 "Lamps, light fixtures",4,5,2
 Plumbing fixtures,-,-,2
 "Toilets, urinals",-,-,2
-,,,
 Machinery,358,390,324
 Agricultural and garden machinery,71,73,68
 Harvesting and threshing machinery,19,15,17
@@ -5914,7 +5707,6 @@ Air compressors,-,2,1
 Garbage disposals,-,-,1
 Incinerators,-,-,-
 Trash compactors,-,2,-
-,,,
 Parts and materials,192,177,190
 Building materials,64,65,69
 "Bricks, blocks, structural stone",11,6,9
@@ -6009,7 +5801,6 @@ Other parts and materials,1,-,2
 "Caps, lids, covers",1,-,-
 "Container caps, lids, covers",-,-,-
 Manhole and cistern covers,-,-,-
-,,,
 "Persons, plants, animals, and minerals",900,"1,090","1,013"
 Animals,39,54,50
 Birds and fowl,-,-,-
@@ -6091,7 +5882,6 @@ Logs,14,13,12
 "Other plants  trees  vegetation not 
      processed",2,2,3
 Grain dust,1,2,2
-,,,
 Structures and surfaces,568,602,661
 Confined spaces21,34,44,38
 "Ditches, channels, trenches, excavations",25,37,24
@@ -6238,7 +6028,6 @@ Natural ponds,3,3,1
 Lakes,-,1,-
 "Rivers, streams",-,3,1
 Oceans,-,1,2
-,,,
 "Tools, instruments, and equipment",192,223,194
 Handtools nonpowered,13,15,7
 Boring handtools nonpowered,-,-,-
@@ -6329,7 +6118,6 @@ Explosive devices,2,-,3
 Ammunition,-,-,-
 "Other tools, instruments, and equipment",3,3,1
 Musical instrument,-,-,-
-,,,
 Vehicle,"2,195","2,246","2,243"
 Aircraft,138,131,129
 Airplane powered fixed wing,83,93,93
@@ -6422,7 +6210,6 @@ Armored personnel carrier,1,9,-
 Tank,6,-,2
 Humvee,3,-,-
 Street sweeping and cleaning machinery,5,4,7
-,,,
 Other sources,91,104,82
 Apparel and textiles,5,1,4
 Clothing,5,1,4
@@ -6467,9 +6254,6 @@ Scrap metal,-,-,-
 Liquids,16,23,24
 Water,16,23,24
 "Ice blocks, cubes, crushed",-,1,-
-,,,
-Secondary source 201122,,,
-,,,
 Chemicals and chemical products,35,48,42
 Acids and alkalies,-,2,-
 Acids,-,1,-
@@ -6552,7 +6336,6 @@ Paint,-,-,-
 Naphtha solvents,-,-,-
 "Paint removers, thinners",-,-,-
 Other chemical products���general,1,-,-
-,,,
 "Containers, furniture, and fixtures",49,58,55
 Containers,34,49,37
 Containers nonpressurized,12,21,18
@@ -6597,7 +6380,6 @@ Lighting equipment,2,1,-
 Plumbing fixtures,-,-,1
 "Bathtubs, hot tubs, showers",-,-,-
 Sinks,-,-,1
-,,,
 Machinery,139,142,156
 Agricultural and garden machinery,14,15,12
 Harvesting and threshing machinery,1,3,4
@@ -6767,7 +6549,6 @@ Audio and video equipment,-,-,1
 Other machinery,9,8,5
 Air compressors,8,5,5
 Trash compactors,-,-,-
-,,,
 Parts and materials,215,263,224
 Building materials,41,46,31
 "Bricks, blocks, structural stone",8,8,7
@@ -6858,7 +6639,6 @@ Other parts and materials,-,-,-
 "Caps, lids, covers",-,-,-
 "Container caps, lids, covers",-,-,-
 Manhole and cistern covers,-,-,-
-,,,
 "Persons, plants, animals, and minerals",262,262,264
 Animals,13,11,6
 Birds and fowl,-,4,-
@@ -6908,7 +6688,6 @@ Logs,4,-,5
 "Other plants  trees  vegetation not 
      processed",1,3,6
 Grain dust,-,2,5
-,,,
 Structures and surfaces,478,458,"1,077"
 Confined spaces21,55,38,48
 "Ditches, channels, trenches, excavations",3,4,8
@@ -7063,7 +6842,6 @@ Natural ponds,-,1,-
 Lakes,3,2,5
 "Rivers, streams",3,2,6
 Oceans,11,2,12
-,,,
 "Tools, instruments, and equipment",621,706,685
 Handtools nonpowered,35,49,63
 Cutting handtools nonpowered,26,42,52
@@ -7153,7 +6931,6 @@ Explosive devices,1,-,1
 Musical instrument,-,-,-
 Fishing equipment,-,4,2
 Commercial fishing equipment,-,3,2
-,,,
 Vehicle,869,862,853
 Aircraft,8,19,1
 Airplane powered fixed wing,6,6,-
@@ -7233,7 +7010,6 @@ Other vehicles,1,2,2
 Armored personnel carrier,-,-,-
 Humvee,-,1,1
 Street sweeping and cleaning machinery,1,-,-
-,,,
 Other sources,115,125,132
 Apparel and textiles,34,34,31
 Clothing,33,32,29
@@ -7289,11 +7065,7 @@ Scrap metal,-,-,-
 Liquids,11,7,11
 Water,8,4,11
 "Ice blocks, cubes, crushed",-,-,-
-,,,
 Not reported,"2,048","2,257","1,653"
-,,,
-Nature 201119,,,
-,,,
 Traumatic injuries and disorders,"4,831","5,183","5,139"
 "Traumatic injuries to bones, nerves, spinal 
      cord",180,198,190
@@ -7408,9 +7180,6 @@ Crushing injuries,1,3,3
 "Other traumatic injuries and disorders, 
      n.e.c.",-,1,-
 Traumatic shock,-,1,-
-,,,
-Part of body 201119,,,
-,,,
 Head,"1,004","1,018","1,060"
 Cranial region,816,812,836
 Brain,804,795,813
@@ -7430,13 +7199,11 @@ Gum,-,-,1
 Multiple mouth locations,2,-,-
 Multiple face locations,1,1,1
 Multiple head locations,3,1,1
-,,,
 "Neck, except internal location of diseases or 
      disorders",195,258,203
 Larynx,-,-,1
 Trachea,-,-,-
 Multiple internal neck locations,1,1,-
-,,,
 Trunk,785,854,745
 "Chest, except internal location of diseases 
      or disorders",362,379,325
@@ -7460,7 +7227,6 @@ Pelvis,11,12,10
 Groin,1,3,2
 Multiple pelvic region locations,2,1,-
 Multiple trunk locations,162,173,153
-,,,
 Upper extremities,21,29,24
 "Shoulder(s), including clavicle(s), scapula(e)",5,10,8
 Arm(s),7,13,10
@@ -7481,7 +7247,6 @@ Hand(s) and wrist(s),-,-,-
 Wrist(s) and arm(s),-,-,-
 Wrist(s) and elbow(s),-,-,-
 Shoulder(s) and arm(s),-,-,1
-,,,
 Lower extremities,71,74,63
 Leg(s),51,53,44
 Thigh(s),9,16,13
@@ -7498,9 +7263,7 @@ Multiple foot (feet) locations,1,1,-
 Multiple lower extremities locations,3,2,-
 Foot (feet) and ankle(s),-,1,-
 Ankle(s) and leg(s),-,-,-
-,,,
 Body systems,681,792,779
-,,,
 Multiple body parts,"2,079","2,165","2,272"
 Head and neck,119,122,140
 "Head, neck, and trunk",128,154,137
@@ -7511,9 +7274,6 @@ Hip(s) and leg(s),9,1,4
 Upper and lower limb(s),1,2,1
 Other multiple body parts,443,476,492
 Whole body,86,64,80
-,,,
-Worker activity,,,
-,,,
 Vehicular and transportation operations,"2,121","2,154","2,132"
 "Driving, operating","1,407","1,384","1,403"
 "Driving, operating automobile",155,159,159
@@ -7555,7 +7315,6 @@ Walking behind vehicle,69,72,62
 "Driving, operating farm vehicle",101,121,105
 "Riding in, on farm vehicle",1,3,5
 "Boarding, alighting farm vehicle",6,16,6
-,,,
 "Using or operating tools, machinery",405,392,365
 Operating heavy equipment,84,73,60
 Operating hydraulic equipment,15,8,8
@@ -7593,7 +7352,6 @@ Operating wood chipper,5,2,1
 "Using or operating tools, machinery, gauges, 
      n.e.c.",2,-,-
 Operating office equipment,-,-,-
-,,,
 "Constructing, repairing, cleaning",968,"1,023","1,024"
 "Construction, assembling, dismantling",357,373,369
 "Constructing, assembling",73,63,72
@@ -7621,12 +7379,10 @@ Cleaning machines,9,12,10
 "Painting, not in a spray booth",25,36,38
 "Applying other finishes, not in a spray 
      booth",6,6,4
-,,,
 Protective service activities,110,160,132
 Fighting a fire,16,10,12
 "Apprehending, breaking up fight, chasing",39,57,46
 Rescuing or evacuating,10,15,9
-,,,
 Materials handling operations,215,230,206
 Lifting materials,8,9,15
 Carrying materials,17,25,27
@@ -7644,7 +7400,6 @@ Retrieving objects,21,14,15
 Digging,7,10,3
 "Dumping, filling",7,5,8
 "Pushing, pulling",11,10,7
-,,,
 "Physical activity, n.e.c.23",308,342,325
 "Climbing, descending",100,108,103
 "Climbing, descending ladder",66,65,53
@@ -7664,7 +7419,6 @@ Jumping,3,1,4
 "Water related activities, unspecified",11,18,17
 Swimming,3,6,5
 Diving,8,11,12
-,,,
 All other activities,374,444,452
 Tending a retail establishment,153,185,159
 Office work,36,35,48
@@ -7678,26 +7432,20 @@ Animal care and tending,23,40,37
 Legal service activities,1,1,2
 "Teaching, giving or receiving training",16,14,13
 "Travel, n.e.c.",-,2,-
-,,,
-Location,,,
-,,,
 Private residence,514,597,582
 Apartment,55,42,44
 Farm house,7,5,4
 Residential construction,200,260,231
-,,,
 Farm,393,411,421
 "Farm buildings, except silos",52,49,67
 "Farm land under cultivation, fields, meadows",188,199,212
 "Farm pond, creek, canal, irrigation ditch",21,20,13
 Manure pit,6,6,2
 "Silo, grain bin",23,27,22
-,,,
 Mine and quarry,33,26,29
 "Gravel, sand pit",4,3,1
 Mine tunnel under construction,1,1,-
 Mine,19,12,24
-,,,
 Industrial place and premise,"1,034","1,061","1,007"
 Dockyard,24,43,23
 Industrial yard,91,66,75
@@ -7706,18 +7454,15 @@ Loading platform,40,58,54
 "Warehouse, except loading platform",73,93,99
 Construction site,313,332,292
 "Factory, plant",236,235,217
-,,,
 Place for recreation and sport,73,91,81
 Amusement park,6,5,3
 "Recreation, sports center on employer's 
      premises",-,4,2
-,,,
 Street and highway,"1,676","1,684","1,719"
 "Interstate, freeway, or expressway",389,443,446
 Other State or U.S. highway,614,567,601
 Local road or street,505,492,499
 Road construction24,130,143,132
-,,,
 Public building,528,586,613
 Bank,4,5,11
 "Hotel, motel",17,25,30
@@ -7726,10 +7471,8 @@ Office building,109,100,115
 "Restaurant, cafe",69,102,100
 Other commercial store,151,164,151
 "School (State, public, private)",32,32,42
-,,,
 Residential institution,16,37,51
 "Prison, jail, detention home",4,10,16
-,,,
 Other specified place,546,680,616
 "Parking lot, garage (employer's premises)",142,184,168
 "Parking lot, garage (except employer's 
@@ -7737,9 +7480,6 @@ Other specified place,546,680,616
 "River, lake, pond, stream",40,45,57
 Sea,41,54,54
 Woods,104,128,99
-,,,
-Month of incident,,,
-,,,
 January,419,383,396
 February,335,371,372
 March,356,418,354
@@ -7752,9 +7492,6 @@ September,384,462,461
 October,413,455,464
 November,378,390,398
 December,358,376,395
-,,,
-Day of week of incident,,,
-,,,
 Sunday,322,362,376
 Monday,820,873,859
 Tuesday,844,825,855
@@ -7762,31 +7499,3 @@ Wednesday,832,847,866
 Thursday,771,861,866
 Friday,766,844,799
 Saturday,481,578,526
-,,,
-"1 The Census of Fatal Occupational Injuries (CFOI) has published data on fatal occupational injuries for the United States since 1992. During this time, the classification systems and definitions of many data elements have changed.�� Please see the CFOI Definitions page (http://www.bls.gov/iif/oshcfdef.htm) for a more detailed description of each data element and their definitions.",,,
-2 May include volunteers and workers receiving other types of compensation.,,,
-"3 Includes self-employed workers, owners of unincorporated businesses and farms, paid and unpaid family workers, and may include some owners of incorporated businesses or members of partnerships.",,,
-4 Persons identified as Hispanic or Latino may be of any race. The race categories shown exclude data for Hispanics and Latinos.,,,
-"5 Occupation data from 2003 to 2010 are based on the Standard Occupational Classification system, 2000. Occupation data from 2011 to the present are based on the Standard Occupational Classification system, 2010.",,,
-"6 This category was discontinued with the implementation of the 2010 Standard Occupational Classification (SOC) system.�� If it appears for years 2011 to present, it refers to the same data as the computer occupations category.",,,
-"7 For 2011 to present, the printing workers category may be displayed twice because of a change in the Standard Occupational Classification (SOC) system from the 2000 version to the 2010 version.",,,
-8 Includes fatal injuries to persons identified as resident armed forces regardless of individual occupation listed.,,,
-"9 Industry data from 2003 to 2008 are based on the North American Industry Classification System, 2002. Industry data from 2009 to 2013 are based on the North American Industry Classification System, 2007. Industry data from 2014 to the present are based on the North American Industry Classification System, 2012.",,,
-"10 Includes all fatal occupational injuries meeting this ownership criterion across all specified years, regardless of industry classification system.",,,
-"11 Includes fatal injuries at all establishments categorized as Mining, quarrying, and oil and gas extraction (Sector 21) in the North American Industry Classification System, including establishments not governed by the Mine Safety and Health Administration (MSHA) rules and reporting, such as those in Oil and Gas Extraction.",,,
-"12 Includes fatal injuries to workers employed by governmental organizations regardless of industry. Includes all fatal occupational injuries meeting this ownership criterion across all specified years, regardless of industry classification system. ",,,
-13 Based on the BLS Occupational Injury and Illness Classification System (OIICS) in effect for 1992 to 2010 data.,,,
-14 May include fatal injuries that occurred in structures that do not meet the definition of permit-required confined spaces as defined by Occupational Safety and Health Administration regulations. Excludes fatalities from trench cave-ins and from being caught in collapsing materials.,,,
-"15 Based on the BLS Occupational Injury and Illness Classification System (OIICS) in effect for 1992 to 2010 data. The primary source of injury identifies the object, substance, or exposure that directly produced or inflicted the injury. For most transportation incidents, the primary source identifies the vehicle in which the deceased was an occupant. For most falls, the primary source identifies the surface or object contacted.",,,
-"16 The category ""Robber"" was instituted beginning with 1997 data, which was partial year reporting.",,,
-"17 Based on the BLS Occupational Injury and Illness Classification System (OIICS) in effect for 1992 to 2010 data. The secondary source of injury, if any, identifies the object, substance, or person that generated the source of injury or that contributed to the event or exposure. For vehicle collisions, the deceased���s vehicle is the primary source and the other object (truck, road divider, etc.) is the secondary source. For most homicides, the ""bullet"" is the primary source and the ""assailant"" is the secondary source. For most falls, the secondary source identifies the equipment or surface from which the worker fell.",,,
-18 May include some asphyxiations due to chest compressions.,,,
-19 Based on the BLS Occupational Injury and Illness Classification System (OIICS) 2.01 implemented for 2011 data forward.,,,
-"20 Based on the BLS Occupational Injury and Illness Classification System (OIICS) 2.01 implemented for 2011 data forward. The primary source of a fatal occupational injury is the object, substance, person, bodily motion, or exposure which most directly led to, produced, or inflicted the injury or illness.",,,
-21 May differ from the definition of confined spaces as defined by Occupational Safety and Health Administration.,,,
-"22 Based on the BLS Occupational Injury and Illness Classification System (OIICS) 2.01 implemented for 2011 data forward. The secondary source of a fatal occupational injury is the object, substance, person, or exposure, other than the source, if any, which most actively generated the source or contributed to the injury or illness.",,,
-"23 Includes, but is not limited to, walking, sitting, running, and climbing ladders or stairs.",,,
-"24 The road construction location category was implemented in 1995. Includes road construction workers and vehicle occupants fatally injured in work zones. Work zones include construction, maintenance, and utility work on a road, street, or highway.",,,
-,,,
-"Note: Data for all years are revised and final. Totals for major categories may include subcategories not shown separately. Dashes indicate no data reported or data that do not meet publication criteria. N.e.c. means ""not elsewhere classified."" CFOI fatal injury counts exclude illness-related deaths unless precipitated by an injury event.",,,
-"Source: U.S. Department of Labor, Bureau of Labor Statistics, in cooperation with state, New York City, District of Columbia, and federal agencies, Census of Fatal Occupational Injuries",,,
