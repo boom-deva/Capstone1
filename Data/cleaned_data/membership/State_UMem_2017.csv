@@ -1,0 +1,103 @@
+,State,Sector,Employment,Members,%Mem
+0,Alabama,Total,"1,868,005","137,776",7.4
+1,Alabama,Construction,"112,835","7,954",7.0
+2,Alaska,Total,"304,027","54,960",18.1
+3,Alaska,Construction,"16,584","3,882",23.4
+4,Arizona,Total,"2,804,949","111,840",4.0
+5,Arizona,Construction,"163,853","1,921",1.2
+6,Arkansas,Total,"1,207,917","61,734",5.1
+7,Arkansas,Construction,"60,846","1,523",2.5
+8,California,Total,"16,063,818","2,489,184",15.5
+9,California,Construction,"882,269","157,805",17.9
+10,Colorado,Total,"2,500,952","238,340",9.5
+11,Colorado,Construction,"165,092","17,568",10.6
+12,Connecticut,Total,"1,645,268","278,874",17.0
+13,Connecticut,Construction,"81,888","11,807",14.4
+14,Delaware,Total,"421,340","45,457",10.8
+15,Delaware,Construction,"29,391","4,385",14.9
+16,D.C.,Total,"346,512","33,705",9.7
+17,D.C.,Construction,"9,160","1,022",11.2
+18,Florida,Total,"8,571,999","479,315",5.6
+19,Florida,Construction,"527,456","26,512",5.0
+20,Georgia,Total,"4,339,237","172,589",4.0
+21,Georgia,Construction,"245,905","14,427",5.9
+22,Hawaii,Total,"604,843","128,896",21.3
+23,Hawaii,Construction,"44,629","15,887",35.6
+24,Idaho,Total,"722,904","34,759",4.8
+25,Idaho,Construction,"43,778","2,386",5.5
+26,Illinois,Total,"5,521,282","828,066",15.0
+27,Illinois,Construction,"213,385","87,522",41.0
+28,Indiana,Total,"2,988,239","266,163",8.9
+29,Indiana,Construction,"134,487","21,754",16.2
+30,Iowa,Total,"1,474,981","103,556",7.0
+31,Iowa,Construction,"77,005","12,358",16.0
+32,Kansas,Total,"1,296,301","100,820",7.8
+33,Kansas,Construction,"76,455","10,822",14.2
+34,Kentucky,Total,"1,808,833","175,081",9.7
+35,Kentucky,Construction,"104,199","17,429",16.7
+36,Louisiana,Total,"1,780,038","77,910",4.4
+37,Louisiana,Construction,"137,486","6,853",5.0
+38,Maine,Total,"576,939","65,680",11.4
+39,Maine,Construction,"28,457",0,0.0
+40,Maryland,Total,"2,768,871","297,633",10.7
+41,Maryland,Construction,"167,247","15,864",9.5
+42,Massachusetts,Total,"3,232,932","400,409",12.4
+43,Massachusetts,Construction,"160,807","27,020",16.8
+44,Michigan,Total,"4,230,158","659,285",15.6
+45,Michigan,Construction,"177,380","46,009",25.9
+46,Minnesota,Total,"2,695,548","410,578",15.2
+47,Minnesota,Construction,"150,582","47,667",31.7
+48,Mississippi,Total,"1,108,613","59,031",5.3
+49,Mississippi,Construction,"50,447","1,183",2.3
+50,Missouri,Total,"2,618,301","226,136",8.6
+51,Missouri,Construction,"178,571","58,549",32.8
+52,Montana,Total,"419,486","49,679",11.8
+53,Montana,Construction,"25,970","3,358",12.9
+54,Nebraska,Total,"859,328","70,021",8.1
+55,Nebraska,Construction,"47,459","3,346",7.0
+56,Nevada,Total,"1,290,685","164,287",12.7
+57,Nevada,Construction,"97,679","16,961",17.4
+58,New Hampshire,Total,"642,225","72,218",11.2
+59,New Hampshire,Construction,"32,980","4,044",12.3
+60,New Jersey,Total,"3,897,617","628,734",16.1
+61,New Jersey,Construction,"175,906","52,404",29.8
+62,New Mexico,Total,"769,281","51,625",6.7
+63,New Mexico,Construction,"52,152","3,089",5.9
+64,New York,Total,"8,478,589","2,016,437",23.8
+65,New York,Construction,"455,890","111,196",24.4
+66,North Carolina,Total,"4,302,258","144,232",3.4
+67,North Carolina,Construction,"286,018","2,328",0.8
+68,North Dakota,Total,"356,248","18,002",5.1
+69,North Dakota,Construction,"22,280","1,340",6.0
+70,Ohio,Total,"5,067,870","634,474",12.5
+71,Ohio,Construction,"244,352","54,605",22.3
+72,Oklahoma,Total,"1,534,322","84,166",5.5
+73,Oklahoma,Construction,"89,033","6,135",6.9
+74,Oregon,Total,"1,761,898","262,326",14.9
+75,Oregon,Construction,"77,673","14,774",19.0
+76,Pennsylvania,Total,"5,538,669","664,702",12.0
+77,Pennsylvania,Construction,"308,584","67,075",21.7
+78,Rhode Island,Total,"485,379","78,224",16.1
+79,Rhode Island,Construction,"18,087","3,791",21.0
+80,South Carolina,Total,"1,989,387","52,209",2.6
+81,South Carolina,Construction,"138,348","3,392",2.5
+82,South Dakota,Total,"379,739","20,243",5.3
+83,South Dakota,Construction,"23,518","1,096",4.7
+84,Tennessee,Total,"2,725,434","154,377",5.7
+85,Tennessee,Construction,"162,850","11,124",6.8
+86,Texas,Total,"11,626,899","542,242",4.7
+87,Texas,Construction,"908,363","29,029",3.2
+88,Utah,Total,"1,373,911","54,083",3.9
+89,Utah,Construction,"85,900","4,563",5.3
+90,Vermont,Total,"288,308","31,722",11.0
+91,Vermont,Construction,"13,349",876,6.6
+92,Virginia,Total,"3,806,256","176,653",4.6
+93,Virginia,Construction,"202,553","11,129",5.5
+94,Washington,Total,"3,109,830","582,749",18.7
+95,Washington,Construction,"175,764","35,816",20.4
+96,West Virginia,Total,"683,183","75,154",11.0
+97,West Virginia,Construction,"32,137","6,995",21.8
+98,Wisconsin,Total,"2,780,465","230,561",8.3
+99,Wisconsin,Construction,"111,489","32,145",28.8
+100,Wyoming,Total,"242,840","14,625",6.0
+101,Wyoming,Construction,"14,102",789,5.6

@@ -1,0 +1,74 @@
+,Occupation/Industry,2012_Total $,2012_Union $,2012_Non Union $,2013_Total $,2013_Union $,2013_Non Union $
+0,Total full-time wage and salary workers,768,943,742,776,950,750
+1,"Management, professional, and related occupations",1108,1108,1111,1132,1121,1135
+2,"Management, business, and financial operations occupations",1171,1159,1172,1208,1202,1207
+3,Management occupations,1248,1261,1247,1285,1305,1280
+4,Business and financial operations occupations,1058,1060,1060,1091,1086,1092
+5,Professional and related occupations,1053,1098,1046,1071,1102,1067
+6,Computer and mathematical occupations,1349,1157,1359,1365,1248,1371
+7,Architecture and engineering occupations,1337,1368,1335,1365,1269,1369
+8,"Life, physical, and social science occupations",1134,1209,1127,1152,1233,1149
+9,Community and social service occupations,838,1007,783,847,990,813
+10,Legal occupations,1328,1174,1342,1253,1325,1248
+11,"Education, training, and library occupations",915,1050,814,937,1068,836
+12,"Arts, design, entertainment, sports, and media occupations",969,1107,957,988,1243,974
+13,Healthcare practitioner and technical occupations,1028,1151,1010,1048,1185,1031
+14,Service occupations,485,754,458,493,746,467
+15,Healthcare support occupations,482,527,477,491,576,485
+16,Protective service occupations,791,1071,649,783,1104,645
+17,Food preparation and serving related occupations,410,509,405,416,538,413
+18,Building and grounds cleaning and maintenance occupations,465,621,440,475,635,448
+19,Personal care and service occupations,468,524,462,481,529,476
+20,Sales and office occupations,655,789,642,659,774,646
+21,Sales and related occupations,689,689,691,708,705,708
+22,Office and administrative support occupations,643,808,624,638,791,620
+23,"Natural resources, construction, and maintenance occupations",740,1026,688,747,1054,693
+24,"Farming, fishing, and forestry occupations",435,-,430,448,-,445
+25,Construction and extraction occupations,740,1040,682,732,1069,675
+26,"Installation, maintenance, and repair occupations",808,1032,768,821,1045,772
+27,"Production, transportation, and material moving occupations",624,823,597,621,810,598
+28,Production occupations,627,816,605,623,790,604
+29,Transportation and material moving occupations,621,833,586,619,838,590
+30,,,,,,,
+31,INDUSTRY,,,,,,
+32,Private sector,742,887,731,751,892,739
+33,Agriculture and related industries,470,-,469,496,-,496
+34,Nonagricultural industries,746,888,735,754,892,743
+35,"Mining, quarrying, and oil and gas extraction",1112,1119,1113,1119,1075,1130
+36,Construction,768,1086,722,762,1096,713
+37,Manufacturing,797,872,786,816,841,814
+38,Durable goods,827,891,819,863,881,862
+39,Nondurable goods,737,827,722,747,790,739
+40,Wholesale and retail trade,630,650,629,638,668,636
+41,Wholesale trade,821,821,823,800,840,798
+42,Retail trade,592,609,592,602,622,601
+43,Transportation and utilities,828,998,789,824,1015,773
+44,Transportation and warehousing,778,948,746,777,975,732
+45,Utilities,1132,1216,1086,1104,1183,1078
+46,Information(4),978,1103,966,980,1095,970
+47,"Publishing, except Internet",934,-,921,908,-,912
+48,Motion pictures and sound recording industries,854,-,798,969,-,937
+49,Radio and television broadcasting and cable subscription programming,890,-,903,897,-,895
+50,Telecommunications,1064,1162,1039,1129,1162,1123
+51,Financial activities,889,795,893,905,875,905
+52,Finance and insurance,941,852,944,963,898,962
+53,Finance,952,-,955,992,-,988
+54,Insurance,922,-,924,928,-,929
+55,Real estate and rental and leasing,731,773,727,734,849,728
+56,Professional and business services,910,826,912,907,889,907
+57,Professional and technical services,1165,1183,1165,1172,1169,1173
+58,"Management, administrative, and waste services",582,699,577,576,800,567
+59,Education and health services,748,879,736,765,894,752
+60,Educational services,864,918,844,879,970,851
+61,Health care and social assistance,720,835,711,741,823,732
+62,Leisure and hospitality,481,611,475,492,605,487
+63,"Arts, entertainment, and recreation",641,675,640,629,636,627
+64,Accommodation and food services,445,596,438,460,582,453
+65,Accommodation,542,613,527,571,622,559
+66,Food services and drinking places,421,536,419,432,530,430
+67,Other services(4),622,807,618,634,816,627
+68,"Other services, except private households",649,828,645,660,825,654
+69,Public sector,898,990,829,910,999,839
+70,Federal government,1072,1035,1113,1098,1043,1139
+71,State government,854,948,794,868,959,806
+72,Local government,866,989,756,879,1003,757
