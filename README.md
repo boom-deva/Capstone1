@@ -23,7 +23,7 @@ Data cleaning was an extensive process. Many of these tables were available only
 <br>
 Analyzing the correlations between our feature variables, we found high correlations (both negative and positive) in many of the obvious areas (e.g. - average annual wage across all industries is negatively correlated with percentage of population below the poverty threshold), there were also some standouts that supported our initial expectations. There was a noticeable positive correlation between total union membership percentage and average annual wages across *all* industries. Also, a negative correlation between construction industry union membership percentage and percentage of population below the poverty line supports our hypothesis that there is a clear relationship between union membership in this single industry and the overall poverty rate.
 <br>
-We trained our model on these factors, using poverty rate as a binarized column (dependent upon the US rate for the given year in which the data was analyzed) as our y variable. After building a successful model on our first dataset for 2010 (success being measured as an accuracy rate of ~77%), we tested this model on the remaining seven years of data, to see just how accurately it would carry over to other years.
+We trained our model on these factors, using poverty rate as a binarized column (dependent upon the US rate for the given year in which the data was analyzed) as our y variable. After building a successful model on our first dataset for 2010 (success being measured as an accuracy rate of ~85%), we tested this model on the remaining seven years of data, to see just how accurately it would carry over to other years.
 
 ## Conclusions/Recommendations
 
