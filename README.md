@@ -27,4 +27,6 @@ We trained our model on these factors, using poverty rate as a binarized column 
 
 ## Conclusions/Recommendations
 
+Because poverty rate of a given state is such a multilayered statistic, it is impossible to expect a model with fewer than 100s of features, made up of precisely gathered data, to predict it with total accuracy. Because our model focuses on particular datapoints (union membership and wages for population within the construction industry) to show that a prediction is possible based on these factors realtion to poverty rate, this accuracy rate is very acceptable.    
+That accurate predictions of poverty threshold of states can be made using our chosen features, shows a clear relationship.
 
